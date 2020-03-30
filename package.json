@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "content-encodings": "^0.1.1",
+    "emailjs-mime-codec": "^2.0.9",
     "iconv-lite": "^0.5.0"
   }
 }
